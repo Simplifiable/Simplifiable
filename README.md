@@ -5,7 +5,7 @@ I have the biggest will to learn programming, and nothing will stop me from doin
 
 * 🌍  I'm based in Alexandria, Egypt
 * ✉️  You can contact me at [khaledmohamed.km572@gmail.com](mailto:khaledmohamed.km572@gmail.com)
-* 🧠  I'm learning C#
+* 🧠  I'm learning JAVA
 * 🤝  I'm open to collaborating on any project that will help me gain exp
 * ⚡  I will be a pro one day .. just wait for me
 
